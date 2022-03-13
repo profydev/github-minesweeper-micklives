@@ -1,3 +1,15 @@
 {
-  "commands": ["clear d5", "clear d4", "clear d6", "clear d7"]
+  "commands": [
+    "clear d5",
+    "clear d4",
+    "clear d6",
+    "clear d7",
+    "clear e6",
+    "clear d8",
+    "clear f6",
+    "clear e8",
+    "clear f7",
+    "clear f5",
+    "clear g6"
+  ]
 }

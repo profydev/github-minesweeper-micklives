@@ -22,6 +22,9 @@
     "clear h8",
     "clear b1",
     "clear c1",
-    "clear a1"
+    "clear a1",
+    "flag f3",
+    "flag g2",
+    "clear h2"
   ]
 }

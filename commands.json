@@ -23,6 +23,16 @@
 
     "clear b5",
     "clear c5",
-    "clear d5"
+    "clear d5",
+
+    "clear c6",
+    "clear d6",
+    "clear e6",
+
+    "clear b6",
+    "clear a5",
+    "clear a6",
+
+    "flag f5"
   ]
 }

@@ -39,8 +39,9 @@
     "clear d8",
     "clear e8",
     "clear f8",
-
     "clear h5",
-    "clear h6"
+    "clear h6",
+
+    "flag g7"
   ]
 }

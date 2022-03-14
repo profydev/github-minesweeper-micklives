@@ -35,10 +35,12 @@
     "clear b7",
     "flag a7",
     "clear b8",
+    "flag c8",
+    "clear d8",
+    "clear e8",
+    "clear f8",
 
-  "flag c8",
-  "clear d8",
-  "clear e8",
-  "clear f8"
+    "clear h5",
+    "clear h6"
   ]
 }
